@@ -7,11 +7,11 @@ As I continue to grow my skills, I’ll be exploring more advanced topics in Pyt
 
 🔧 What this project includes:
 
->> A fun, interactive command-line game
+A fun, interactive command-line game
 
->> Basic use of Python functions and control flow
+Basic use of Python functions and control flow
 
->> Randomized computer choices
+Randomized computer choices
 
->> User input handling and game result logic
+User input handling and game result logic
 
