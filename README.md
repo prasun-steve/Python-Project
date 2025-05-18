@@ -1,4 +1,5 @@
-🎮 Rock, Paper, Scissors Game – Python Mini Project
+#🎮 Rock, Paper, Scissors Game – Python Mini Project
+
 Hey there! 👋
 I'm currently diving into basic Python projects to strengthen my foundations step by step. This simple Rock, Paper, Scissors game is one of my early projects — and just the beginning of my learning journey! 🚀
 
