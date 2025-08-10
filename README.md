@@ -1,17 +1,11 @@
-#🎮 Rock, Paper, Scissors Game – Python Mini Project
+👋 Welcome to My GitHub
+🚀 Passionate about Python development, problem-solving, and creating projects that blend learning with practical applications.
+Here are two of my highlighted projects:
 
-Hey there! 👋
-I'm currently diving into basic Python projects to strengthen my foundations step by step. This simple Rock, Paper, Scissors game is one of my early projects — and just the beginning of my learning journey! 🚀
+🎮 SneakWater Learning Game
+A Python-based interactive game designed for fun and education, blending engaging gameplay mechanics with a learning twist. Perfect for improving logic, reflexes, and decision-making skills while having a great time.
 
-As I continue to grow my skills, I’ll be exploring more advanced topics in Python, Data Science, and Machine Learning. Stay tuned for more exciting projects!
+📂 Python File Handling Project
+A hands-on project demonstrating Python’s file I/O capabilities. Covers creating, reading, writing, appending, and updating files in an efficient and organized way — perfect for beginners and learners to strengthen their file management skills.
 
-🔧 What this project includes:
-
-> A fun, interactive command-line game
-
-> Basic use of Python functions and control flow
-
-> Randomized computer choices
-
-> User input handling and game result logic
-
+💡 Always eager to explore new technologies, improve coding skills, and build projects that are both useful and fun.
